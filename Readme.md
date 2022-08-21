@@ -9,3 +9,9 @@ addresses using a proxy, saves them to the database and displays them in the int
 -  Entity Framework
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+![WebProxy](https://user-images.githubusercontent.com/90089560/185801453-2eac215b-a6aa-4b50-97e5-967e2a398d72.png)
